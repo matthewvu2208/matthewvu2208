@@ -1,6 +1,6 @@
 # Xin chào, mình là Vũ Hoàng Mạnh
 
-[English](README.md) · [LinkedIn](https://www.linkedin.com/in/hoang-manh-b9a809433/)
+[English](README.md) · [LinkedIn](https://www.linkedin.com/in/vũ-hoàng-mạnh-b9a809433/)
 
 Mình là sinh viên ngành Khoa học dữ liệu tại Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2026–2030). Mình quan tâm đến phân tích dữ liệu và phát triển sản phẩm, đồng thời đang phát triển kỹ năng Python, C++ và xây dựng nguyên mẫu với sự hỗ trợ của AI.
 
@@ -22,4 +22,4 @@ Mình quan tâm đến cách dữ liệu giúp đội nhóm hiểu vấn đề, 
 
 ## Kết nối
 
-Bạn có thể kết nối với mình qua [LinkedIn](https://www.linkedin.com/in/hoang-manh-b9a809433/).
+Bạn có thể kết nối với mình qua [LinkedIn](https://www.linkedin.com/in/vũ-hoàng-mạnh-b9a809433/).
