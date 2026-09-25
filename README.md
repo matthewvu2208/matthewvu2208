@@ -1,6 +1,6 @@
 # Hi, I'm Vũ Hoàng Mạnh
 
-[LinkedIn](https://www.linkedin.com/in/hoang-manh-b9a809433/)
+[LinkedIn](https://www.linkedin.com/in/hoang-manh-b9a809433/) · [Tiếng Việt](README.vi.md)
 
 I'm a Data Science student at the University of Science, Viet Nam National University Ho Chi Minh City (2026–2030). I'm interested in data analysis and product development, and I'm currently building with Python, C++, and AI-assisted prototyping.
 
